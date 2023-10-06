@@ -1,2 +1,2 @@
 # CS250
-Software Specification
+Software Specification.
